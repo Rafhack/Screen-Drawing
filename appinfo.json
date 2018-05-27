@@ -1,0 +1,11 @@
+{
+    "vendor": "Rafael Caetano",
+    "largeIcon": "largeIcon.png",
+    "icon": "icon.png",
+    "main": "index.html",
+    "id": "com.firebaseapp.screen-drawing",
+    "title": "Screen Drawing",
+    "type": "web",
+    "version": "1.0.0",
+    "uiRevision":2
+}
